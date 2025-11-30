@@ -86,10 +86,10 @@ All security testing is performed in controlled environments such as:
 
 Unauthorized testing is illegal and punishable by law.
 
-```bash 
-# How to Use This Repository
+## How to Use This Repositry
 
-Clone the repository:
+```bash 
+# Clone the repository:
 
 git clone https://github.com/yourusername/web-security-labs.git
 ```
